@@ -1,0 +1,125 @@
+﻿## Ігнорування файлів Visual Studio та .NET
+
+# Файли користувача
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Папки Visual Studio
+.vs/
+.vscode/
+*.userprefs
+.idea/
+
+# Visual Studio профілі автогенерації
+Generated_Code/
+
+# Результати збірки
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Файли .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Папки завантаження NuGet
+**/packages/*
+*.nupkg
+
+# Тимчасові файли
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.log
+
+# Файли специфічні для Visual Studio
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+*.vspscc
+*.vssscc
+
+# Проміжні файли .NET
+*.pidb
+*.svclog
+*.scc
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Інструменти
+_NCrunch_*
+*.ncrunchsolution
+*.ncrunchproject
+
+# Специфічні для Windows Forms
+*.resx
+!Form1.resx
+
+# Локальний історія VS
+.localhistory/
+
+# Кеш збірки
+.build/
+
+# Файли VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Windows специфічні файли
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Файли спільного використання
+$RECYCLE.BIN/
+# Результати збірки та проміжні файли
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Файли та папки Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Тимчасові файли
+*.tmp
+*.bak
+*.cache
+*.log
+
+# Windows специфічні файли
+Desktop.ini
+Thumbs.db
+# macOS специфічні файли
+.DS_Store
+.AppleDouble
+.LSOverride
